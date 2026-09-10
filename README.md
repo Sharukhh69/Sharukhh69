@@ -8,13 +8,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 I'm currently building end-to-end web applications with a focus on **security-first design**
-- 🔐 Diving deep into **cybersecurity** — network security, web app pentesting, and secure coding practices
-- 🤖 Exploring **Machine Learning** — from classic models to applying ML for threat detection
-- 🌱 Currently learning: [e.g. Cloud Security / Deep Learning / DevSecOps]
-- 💬 Ask me about: React, Node.js, Python, Security Fundamentals, ML basics
+-  I'm currently building end-to-end web applications with a focus on **security-first design**
+-  Diving deep into **cybersecurity** — network security, web app pentesting, and secure coding practices
+-  Exploring **Machine Learning** — from classic models to applying ML for threat detection
+-  Currently learning: [e.g. Cloud Security / Deep Learning / DevSecOps]
+-  Ask me about: React, Node.js, Python, Security Fundamentals, ML basics
 
 ---
 
@@ -61,18 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 
 <p align="center"><i>⭐️ From building apps to breaking (and fixing) them — always learning.</i></p>
