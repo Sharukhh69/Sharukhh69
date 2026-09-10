@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Sharukh 👋</h1>
 
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | ML Explorer</h3>
+<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | AIML Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+secure+full-stack+apps;Exploring+Machine+Learning;Breaking+things+to+learn+how+they+work" alt="Typing SVG" />
@@ -15,7 +15,6 @@
 - 🤖 Exploring **Machine Learning** — from classic models to applying ML for threat detection
 - 🌱 Currently learning: [e.g. Cloud Security / Deep Learning / DevSecOps]
 - 💬 Ask me about: React, Node.js, Python, Security Fundamentals, ML basics
-- ⚡ Fun fact: [something fun about you]
 
 ---
 
@@ -75,23 +74,5 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](https://github.com/yourusername/repo) | Short one-line description | React, Node.js |
-| [Security Scanner](https://github.com/yourusername/repo) | A tool that does X for network/web security | Python |
-| [ML Model](https://github.com/yourusername/repo) | Model that predicts/classifies Y | Python, TensorFlow |
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
 
 <p align="center"><i>⭐️ From building apps to breaking (and fixing) them — always learning.</i></p>
